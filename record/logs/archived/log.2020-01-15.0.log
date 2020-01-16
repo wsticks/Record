@@ -1,0 +1,12 @@
+2020-01-15 20:29:01 - Starting RecordApplication on wsticks with PID 7112 (C:\Users\williamsondrums\Downloads\record\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\record)
+2020-01-15 20:29:01 - No active profile set, falling back to default profiles: default
+2020-01-15 20:29:02 - Tomcat initialized with port(s): 8080 (http)
+2020-01-15 20:29:02 - Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-15 20:29:02 - Starting service [Tomcat]
+2020-01-15 20:29:02 - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-15 20:29:03 - Initializing Spring embedded WebApplicationContext
+2020-01-15 20:29:03 - Root WebApplicationContext: initialization completed in 1919 ms
+2020-01-15 20:29:03 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-15 20:29:04 - Starting ProtocolHandler ["http-nio-8080"]
+2020-01-15 20:29:04 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-15 20:29:04 - Started RecordApplication in 4.154 seconds (JVM running for 7.765)
